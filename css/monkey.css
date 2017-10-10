@@ -9,8 +9,8 @@ html {
 }
 
 /* Write your solution here */
-@media only screen and (max-width: 1090px) {
-  #monkey{
+@media only screen and (max-width: 1190px) {
+  #monkey {
     top: 100px;
   }
 }
